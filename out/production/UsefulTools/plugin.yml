@@ -1,0 +1,20 @@
+name: UsefulTools
+version: 1
+author: Jacob Pantuso
+main: com.jacob.usefultools.main
+commands:
+  help:
+    description: Acecss the plugin's library of useful help commands to guide you.
+    usage: /<command>
+  gmc:
+    description: Set gamemode to creative
+    usage: /<command>
+    aliases: [gamemode creative, gamemode c]
+  gms:
+    description: Set gamemode to survival
+    usage: /<command>
+    aliases: [gamemode survival, gamemode s]
+  gma:
+    description: Set gamemode to adventure
+    usage: /<command>
+    aliases: [gamemode aventure, gamemode a ]

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UsefulTools:jar">
+    <output-path>$USER_HOME$/Documents/Test Server/plugins</output-path>
+    <root id="archive" name="UsefulTools.jar">
+      <element id="module-output" name="UsefulTools" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-api-1.12.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
